@@ -144,7 +144,8 @@ This included:
 ## Project Architecture
 
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae9d0159-8f31-4f86-b14e-57c50b211396" />
+<img width="1536" height="1024" alt="Project Architecture Diagram" src="https://github.com/user-attachments/assets/32c12dae-c057-4299-9538-ad02233b7c82" />
+
 
                      
 ```
