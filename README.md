@@ -144,33 +144,9 @@ This included:
 ## Project Architecture
 
 ```
-                              Internet
-                                  │
-                          Internet Gateway
-                                  │
-                    ┌────────────────────────┐
-                    │     Portfolio VPC      │
-                    │      10.0.0.0/16       │
-                    └────────────────────────┘
-                     │                    │
-          Public Subnet             Private Subnet
-           10.0.1.0/24              10.0.2.0/24
-                     │                    │
-             Public Route Table    Private Route Table
-                     │
-              Security Group
-        (SSH, HTTP, HTTPS Allowed)
-                     │
-              Amazon EC2 Instance
-             Amazon Linux 2023
-                     │
-              Apache Web Server
-                     │
-              Test Website
-                     │
-          Amazon CloudWatch Agent
-                     │
-        CloudWatch Dashboard & Alarm
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae9d0159-8f31-4f86-b14e-57c50b211396" />
+
+                     
 ```
 
 ---
