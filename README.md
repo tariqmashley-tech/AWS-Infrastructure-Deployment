@@ -156,8 +156,12 @@ VPC Overview
 Internet Gateway attached to the VPC
 <img width="1228" height="230" alt="Internet Gateway attached to the VPC" src="https://github.com/user-attachments/assets/340a1a4d-3cd7-4253-b2da-caa0825016d4" />
 
-- Public Subnet
-- Private Subnet
+Public Subnet
+<img width="1225" height="563" alt="Public Subnet" src="https://github.com/user-attachments/assets/818f57fa-b5cb-4418-acee-ea7ed450345a" />
+
+Private Subnet
+<img width="1228" height="556" alt="Private Subnet" src="https://github.com/user-attachments/assets/ae482923-ac34-4e98-b35b-fa0f3332b4be" />
+
 - Public Route Table
 - Private Route Table
 
