@@ -151,6 +151,7 @@ This included:
 ### Infrastructure
 
 VPC Overview
+
 <img width="1249" height="575" alt="VPC Overview" src="https://github.com/user-attachments/assets/d96095ff-592c-4adc-ba2b-0dc434bbba5d" />
 
 - Internet Gateway attached to the VPC
