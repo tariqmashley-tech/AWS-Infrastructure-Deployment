@@ -142,14 +142,8 @@ This included:
 ---
 
 ## Project Architecture
+<img width="1022" height="682" alt="image" src="https://github.com/user-attachments/assets/83f967b3-0acc-4fc8-9c2a-37782c0684c7" />
 
-```
-
-
-
-
-                     
-```
 
 ---
 
