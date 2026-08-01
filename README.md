@@ -151,10 +151,11 @@ This included:
 ### Infrastructure
 
 VPC Overview
-
 <img width="1249" height="575" alt="VPC Overview" src="https://github.com/user-attachments/assets/d96095ff-592c-4adc-ba2b-0dc434bbba5d" />
 
-- Internet Gateway attached to the VPC
+Internet Gateway attached to the VPC
+<img width="1228" height="230" alt="Internet Gateway attached to the VPC" src="https://github.com/user-attachments/assets/340a1a4d-3cd7-4253-b2da-caa0825016d4" />
+
 - Public Subnet
 - Private Subnet
 - Public Route Table
