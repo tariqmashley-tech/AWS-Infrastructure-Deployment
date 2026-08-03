@@ -162,34 +162,38 @@ Public Subnet
 Private Subnet
 <img width="1228" height="556" alt="Private Subnet" src="https://github.com/user-attachments/assets/ae482923-ac34-4e98-b35b-fa0f3332b4be" />
 
-- Public Route Table
-- Private Route Table
+Public Route Table
+<img width="1226" height="349" alt="Public Route Table" src="https://github.com/user-attachments/assets/c4e5f942-6bb8-4614-9ad5-0661f073391e" />
+
+Private Route Table
+<img width="1222" height="326" alt="Private Route Table" src="https://github.com/user-attachments/assets/d42de0ef-2ecd-4d01-aa11-424f78a16d06" />
+
 
 ### Security
 
-- Security Group configuration
-- Security Group inbound rules
+Security Group configuration with Inbound Rules
+<img width="1228" height="414" alt="Security Group with Inbound Rules" src="https://github.com/user-attachments/assets/a6416913-9902-4b78-85dd-ecbd54adec93" />
+
 
 ### Compute
 
-- EC2 Instance details
-- EC2 networking configuration
-- EC2 Instance Connect session
+EC2 Instance details with Networking Configuration
+<img width="1219" height="791" alt="EC2 Instance Details" src="https://github.com/user-attachments/assets/5c892bb4-2554-4221-92c5-b5efffda30d6" />
+
+EC2 Instance Connect session
+<img width="476" height="194" alt="SSH Session Connected to EC2 Instance" src="https://github.com/user-attachments/assets/9a9bd67d-81b1-48e1-9e88-5de69db6dfdb" />
 
 ### Web Server
-
-- Apache service running
-- Browser displaying the deployed website
+- Browser displaying the deployed website confirming Apache Service running
+<img width="1901" height="684" alt="Apache Test Webpage in a Browser" src="https://github.com/user-attachments/assets/32256101-7c34-4b20-8477-fd957bcbc65f" />
 
 ### Monitoring
 
-- CloudWatch Dashboard
-- CloudWatch CPU Alarm
-- Alarm transitioning from **OK** to **ALARM**
+CloudWatch Dashboard
+<img width="1897" height="504" alt="CloudWatch Dashboard" src="https://github.com/user-attachments/assets/deb69545-c2ae-4386-8d16-9b4a254754d0" />
 
-### Architecture
-
-- AWS Infrastructure Diagram
+CloudWatch CPU Alarm showing alarm was triggered
+<img width="1699" height="828" alt="CloudWatch Alarm" src="https://github.com/user-attachments/assets/7e0c2ecc-d587-4b5d-ab05-204c4bfea367" />
 
 ---
 
