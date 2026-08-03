@@ -181,10 +181,11 @@ EC2 Instance details with Networking Configuration
 <img width="1219" height="791" alt="EC2 Instance Details" src="https://github.com/user-attachments/assets/5c892bb4-2554-4221-92c5-b5efffda30d6" />
 
 EC2 Instance Connect session
+
 <img width="476" height="194" alt="SSH Session Connected to EC2 Instance" src="https://github.com/user-attachments/assets/9a9bd67d-81b1-48e1-9e88-5de69db6dfdb" />
 
 ### Web Server
-- Browser displaying the deployed website confirming Apache Service running
+Browser displaying the deployed website confirming Apache Service running
 <img width="1901" height="684" alt="Apache Test Webpage in a Browser" src="https://github.com/user-attachments/assets/32256101-7c34-4b20-8477-fd957bcbc65f" />
 
 ### Monitoring
