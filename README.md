@@ -181,7 +181,7 @@ EC2 Instance details with Networking Configuration
 <img width="1219" height="791" alt="EC2 Instance Details" src="https://github.com/user-attachments/assets/5c892bb4-2554-4221-92c5-b5efffda30d6" />
 
 EC2 Instance Connect session
-n/
+
 <img width="476" height="194" alt="SSH Session Connected to EC2 Instance" src="https://github.com/user-attachments/assets/9a9bd67d-81b1-48e1-9e88-5de69db6dfdb" />
 
 ### Web Server
